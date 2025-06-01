@@ -8,7 +8,8 @@
 ## 技術
 - Microsoft SQL Server：資料庫系統，負責儲存與管理會員、卡片資訊與交易紀錄
 - ASP.NET MVC：採用 ASP.NET 的 MVC 架構開發網站，負責處理用戶請求，並與資料庫整合
-## 資料庫架構
+## 資料庫架構圖
+![image](https://github.com/user-attachments/assets/45a3efd0-9678-4f4d-8bb5-f10b1d48229b)
 
 ## 系統功能
 ### Demo影片：https://drive.google.com/file/d/1WVOU066-1dhY4blxXctC7CDZkX80Fl1V/view?usp=sharing
